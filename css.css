@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial;
+    min-width: 400px;
+    background-color:rgb(216, 223, 248)
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    border: 3px solid greenyellow;
+}
+
+button {
+    background-color: #63700e;
+    padding: 20px;
+    margin-top: 10px;
+    width: 20%;
+    font-weight: bold;
+    color: white;
+    border: 2px solid greenyellow;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+    color: #5f9341;
+}
+
+#delete{
+    color: #63700e;
+    background-color: white ;
+}
+#info{
+    list-style-type:disc;
+    margin: 20px;
+    font-family: cursive ,sans-serif,'Times New Roman', Times, serif;
+    font-weight: bold;
+}
